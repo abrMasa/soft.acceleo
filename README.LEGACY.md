@@ -1,3 +1,5 @@
+<!-- README.LEGACY.md: the documentation of soft.acceleo before its rewrite from the SWORD wiki (`Readme.md` of `masa/main at 65e3a90`), kept in full. -->
+
 # Soft Acceleo
 
 Soft Acceleo is a repository used to store a maven repository for the releases of [Acceleo](https://www.eclipse.org/acceleo/) that are not available in the [Eclipse Maven repository](https://repo.eclipse.org)
